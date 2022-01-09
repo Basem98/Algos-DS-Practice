@@ -1,0 +1,12 @@
+{
+  "name": "practiceplayground",
+  "version": "1.0.0",
+  "description": "A playground for me to practice implementing different algorithms and data structures in JavaScript, and testing them using Node's libraries and npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basem98",
+  "license": "ISC",
+  "repository": "https://github.com/Basem98/Algos-DS-Practice.git"
+}
